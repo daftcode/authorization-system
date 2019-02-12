@@ -1,0 +1,9 @@
+numpy==1.15.1
+scipy==1.1.0
+imageio==2.4.1
+opencv-python==3.4.2.17
+pytesseract==0.2.4
+pyinsane2==2.0.13
+pyrealsense2==2.14.1.91
+tensorflow==1.7.0
+facenet==1.0.3
