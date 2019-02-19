@@ -118,3 +118,8 @@ should be detected as fraud. Therefore, keep face straight to the camera.
 
 * Piotr Smuda
 * Piotr Tempczyk
+
+## Blog posts
+
+* [AI-Based Real-Time Face Authorization System](https://blog.daftcode.pl/ai-based-real-time-face-authorization-system-d405a1c42caf)
+* [A Deeper Insight Into Face Authorization System](https://medium.com/asap-report/a-deeper-insight-into-face-authorization-system-f3e8007aa7c6)
